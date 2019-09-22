@@ -11,3 +11,23 @@
 a{
 	color: rgb(41, 41, 41);
 }
+.Caja1{
+	float:left;
+	margin-left: 10%; 
+	width: 35%;
+}
+.Caja2{
+	float:right; 
+	margin-right: 10%; 
+	width: 35%;
+}
+.ImagenPrincipal{
+	width: 450px;
+	height: 285px;
+	border-radius: 15px;
+}
+.ImagenLocal{
+	width: 300px;
+	height: 200px;
+	border-radius: 10px;
+}
